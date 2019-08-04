@@ -11,7 +11,7 @@ boolean gameover = true;
 int START_DELAY = 3000;
 int timer;
 int bLeft, bTop, bRight, bBottom;
-int START_AREA = 900;
+int START_AREA = 1000;
 float areasize = START_AREA;
 float SHRINK_FACTOR = 0.04;
 int endtime, gametimer;
